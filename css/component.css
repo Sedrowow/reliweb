@@ -175,27 +175,27 @@ Posters and still images
 **************************************/
 
 .scene:nth-child(1) .movie .poster {
-  background-image: url(../img/poster01.jpg);
+  background-image: url(../img/crystal.gif);
 }
 
 .scene:nth-child(2) .poster {
-  background-image: url(../img/poster02.jpg);
+  background-image: url(../img/portal.gif);
 }
 
 .scene:nth-child(3) .poster {
-  background-image: url(../img/poster03.jpg);
+  background-image: url(../img/polyball.gif);
 }
 
 .scene:nth-child(1) .info header {
-	background-image: url(../img/still01.jpg);
+	background-image: url(../img/tunnel.gif);
 }
 
 .scene:nth-child(2) .info header {
-	background-image: url(../img/still02.jpg);
+	background-image: url(../img/red.gif);
 }
 
 .scene:nth-child(3) .info header {
-	background-image: url(../img/still03.jpg);
+	background-image: url(../img/galaxy.gif);
 }
 
 /*************************************
